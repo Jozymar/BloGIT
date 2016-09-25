@@ -123,16 +123,23 @@ body{
   	background-color:#FF4500;
 }
 
-/* Botões Anerior e Próximo */
-#ant, #prox{
-  border: 0;
-  background-color: #FF9133;
-  color: white;
-  border-radius: 10%;
-  font-size: 120%;
-  width: 5%;
-  outline: none;
+/*Numeros da Página*/
+.ul.paginacao {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
 }
+
+ul.paginacao li {display: inline;}
+
+ul.paginacao li a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+ul.paginacao li a:hover:not(.active) {background-color: #ddd;}
 
 /* Div Butão Topo */
 #topo{
