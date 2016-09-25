@@ -51,17 +51,19 @@ body{
 #conteudo{
   background-color: white;
   width: 60%;
-  height: 1000px;
+  height: 1500px;
   margin-left: 4.3%;
+  border-style: solid;
+  border-color: #FF9133;
 }
 
 /* Iframe do Conteúdo */
 #iframe{
   width: 80%;
-  height: 900px;
+  height: 1400px;
   margin-top: 8%;
   border-style: solid;
-  border-color: #FF9133;
+  border-color: white;
 }
 
 /* Div Flutuante a Direita */

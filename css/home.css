@@ -1,0 +1,23 @@
+/*Página Principal Home */
+body{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  color: black;
+}
+
+/* Imagens da Página */
+#imgControle{
+  width: 50%;
+  height: 30%;
+}
+
+#imgMudancas{
+  width: 50%;
+  height: 30%;
+}
+
+#imgContinua{
+  width: 60%;
+  height: 30%;
+}
