@@ -10,6 +10,42 @@ body{
    height: 25%;
    width: 25%;
 }
+
+/* Formatação do Menu*/
+#menu ul {
+	padding:0px;
+	margin-top: 1%;
+    margin-left: 4.3%;
+    margin-right: 4.3%;
+    margin-bottom: 2%;
+	background-color:#FF9133;
+	list-style:none;
+    font-size:20px;
+    font-family: arial;
+}
+
+/* Deixando as opções lado a lado */
+#menu ul li { 
+    display: inline; 
+    
+}
+
+/* Formatando links do menu */
+#menu ul li a {
+    padding: 15px 10px;
+    display: inline-block;
+    background-color:#FF9133;
+    color: white;
+    text-decoration: none;
+}
+
+/* Mudança das opções quando passar o mouse em cima */
+#menu ul li a:hover {
+	background-color:#FF4500;
+    color: white;
+}
+
+
 /* Conteúdo da página */
 #conteudo{
   background-color: white;
