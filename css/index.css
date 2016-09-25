@@ -152,6 +152,28 @@ text-decoration: none;
 color: white;
 }
 
+/* Botões das Redes sociais */
+#redes{
+  float: left;
+  margin-top: -2%;
+}
+
+#imgFace{
+  margin-top: -10%;
+  float: left;
+}
+
+#imgWha{
+margin-left: -5%;
+margin-top: -10%;
+float: left;
+}
+
+#numeros{
+  margin-top: -8%;
+  float: right;
+}
+
 /* Final da Página */
 #finalPagina{
   margin-left: 4.3%;
@@ -161,4 +183,5 @@ color: white;
   color:white;
   margin-top: 1%;
   padding: 1%;
+  height: 60px;
 }
