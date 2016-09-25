@@ -64,9 +64,21 @@ body{
 /* Botões Anerior e Próximo */
 #ant, #prox{
   border: 0;
-  background-color: black;
+  background-color: #FF9133;
   color: red;
   border-radius: 10%;
   font-size: 120%;
   width: 5%;
+  outline: none;
+}
+
+#finalPagina{
+    background-color:#FF9133;
+    text-align: center;
+    color:white;
+    margin-top: 1%;
+    margin-left: 4.3%;
+    margin-right: 4.3%;
+    padding: 1%;
+    
 }
