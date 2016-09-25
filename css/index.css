@@ -51,7 +51,7 @@ body{
 #conteudo{
   background-color: white;
   width: 60%;
-  height: 1500px;
+  height: auto;
   margin-left: 4.3%;
   border-style: solid;
   border-color: #FF9133;
