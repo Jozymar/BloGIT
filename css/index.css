@@ -1,0 +1,36 @@
+/* Página Principal */
+body{
+  background-image: url(../imagens/07.jpg);
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+/* Nome do Blog */
+#logo{
+   height: 25%;
+   width: 25%;
+}
+/* Conteúdo da página */
+#conteudo{
+  background-color: white;
+  width: 60%;
+  height: 1000px;
+  margin-left: 4.3%;
+}
+/* Iframe do Conteúdo */
+#iframe{
+  width: 80%;
+  height: 900px;
+  margin-top: 8%;
+  border-style: solid;
+}
+
+/* Botões Anerior e Próximo */
+#ant, #prox{
+  border: 0;
+  background-color: black;
+  color: red;
+  border-radius: 10%;
+  font-size: 120%;
+  width: 5%;
+}
