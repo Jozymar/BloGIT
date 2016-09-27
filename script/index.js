@@ -1,3 +1,7 @@
+post02.onclick = function () {
+  frames['iframe'].location.href = 'paginas/post02.html'
+}
+
 post03.onclick = function () {
   frames['iframe'].location.href = 'paginas/post03.html'
 }
@@ -9,3 +13,4 @@ post04.onclick = function () {
 post05.onclick = function () {
   frames['iframe'].location.href = 'paginas/post05.html'
 }
+

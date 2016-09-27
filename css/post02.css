@@ -1,0 +1,12 @@
+/* Página post02 */
+body{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  color: black;
+}
+
+#gerencia{
+    width: 80%;
+    height: 30%;
+}
