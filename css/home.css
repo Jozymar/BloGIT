@@ -5,19 +5,3 @@ body{
   font-family: arial;
   color: black;
 }
-
-/* Imagens da Página */
-#imgControle{
-  width: 50%;
-  height: 30%;
-}
-
-#imgMudancas{
-  width: 50%;
-  height: 30%;
-}
-
-#imgContinua{
-  width: 60%;
-  height: 30%;
-}

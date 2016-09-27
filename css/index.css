@@ -60,19 +60,19 @@ body{
 /* Iframe do Conteúdo */
 #iframe{
   width: 80%;
-  height: 1400px;
+  height: 1800px;
   margin-top: 8%;
   border-style: solid;
   border-color: white;
 }
 
 /* Div Flutuante a Direita */
-#ferramentas{
+#postagens{
   background-color: white;
   border-radius: 5%;
   position: fixed;
   left: 77%;
-  height: 250px;
+  height: 295px;
   width: 18%;
   border: 5px solid grey;
   border-color: #FF9133;
@@ -98,7 +98,7 @@ body{
 
 /* Butões da Div Ferramentas */
 
-#ferr01, #ferr02, #ferr03, #ferr04{
+#post01, #post02, #post03, #post04, #post05{
   border-radius: 3%;
   border: 0;
   background-color: #FF9133;
@@ -107,20 +107,24 @@ body{
   margin-top: 4%;
 }
 
-#ferr01:hover{
+#post01:hover{
   background-color:#FF4500;
 }
 
-#ferr02:hover{
+#post02:hover{
   background-color:#FF4500;
 }
 
-#ferr03:hover{
+#post03:hover{
   background-color:#FF4500;
 }
 
-#ferr04:hover{
+#post04:hover{
   	background-color:#FF4500;
+}
+
+#post05:hover{
+  background-color:#FF4500;
 }
 
 /*Numeros da Página*/
