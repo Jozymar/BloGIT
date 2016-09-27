@@ -5,3 +5,10 @@ body{
   font-family: arial;
   color: black;
 }
+
+/* Imagem da Página */
+
+#imgTrac {
+  width: 50%;
+  height: 50%;
+}
