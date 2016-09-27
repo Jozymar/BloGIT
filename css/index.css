@@ -20,7 +20,7 @@ body{
   margin-left: 4.3%;
   margin-right: 4.3%;
   margin-bottom: 2%;
-	background-color:#FF9133;
+	background-color:black;
 	list-style:none;
   font-size:20px;
   font-family: arial;
@@ -36,14 +36,14 @@ body{
 #menu ul li a {
   padding: 15px 10px;
   display: inline-block;
-  background-color:#FF9133;
+  background-color:black;
   color: white;
   text-decoration: none;
 }
 
 /* Mudança das opções quando passar o mouse em cima */
 #menu ul li a:hover {
-	background-color:#FF4500;
+	background-color:gray;
   color: white;
 }
 
@@ -54,7 +54,7 @@ body{
   height: auto;
   margin-left: 4.3%;
   border-style: solid;
-  border-color: #FF9133;
+  border-color: black;
 }
 
 /* Iframe do Conteúdo */
@@ -75,7 +75,7 @@ body{
   height: 295px;
   width: 18%;
   border: 5px solid grey;
-  border-color: #FF9133;
+  border-color: black;
 }
 
 /* Barra da Div Flutuante */
@@ -84,7 +84,7 @@ body{
   font-family: arial;
   width: 100%;
   height: 40px;
-  background-color: #FF9133;
+  background-color: black;
 
 }
 
@@ -101,7 +101,7 @@ body{
 #post01, #post02, #post03, #post04, #post05{
   border-radius: 3%;
   border: 0;
-  background-color: #FF9133;
+  background-color: black;
   width: 80%;
   height: 40px;
   margin-top: 4%;
@@ -109,23 +109,23 @@ body{
 }
 
 #post01:hover{
-  background-color:#FF4500;
+  background-color:gray;
 }
 
 #post02:hover{
-  background-color:#FF4500;
+  background-color:gray;
 }
 
 #post03:hover{
-  background-color:#FF4500;
+  background-color:gray;
 }
 
 #post04:hover{
-  	background-color:#FF4500;
+  	background-color:gray;
 }
 
 #post05:hover{
-  background-color:#FF4500;
+  background-color:gray;
 }
 
 /*Numeros da Página*/
@@ -148,13 +148,13 @@ ul.paginacao li a:hover:not(.active) {background-color: #ddd;}
 
 /* Div Butão Topo */
 #topo{
-  background-color: #FF4500;
+  background-color: gray;
   font-size: 120%;
   border: 0;
   border-radius: 10%;
   float: right;
   height: 28px;
-  width: 5%;
+  width: 5.2%;
 }
 
 /* Subir ao Topo */
@@ -190,7 +190,7 @@ float: left;
 #finalPagina{
   margin-left: 4.3%;
   margin-right: 4.3%;
-  background-color:#FF9133;
+  background-color:black;
   text-align: center;
   color:white;
   margin-top: 1%;
